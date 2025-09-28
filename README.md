@@ -10,3 +10,5 @@ Prints the user's full name.
 ```bash
 #!/bin/bash
 echo "Your Full Name Here"
+#!/bin/bash
+echo "Today's date is: $(date)"
